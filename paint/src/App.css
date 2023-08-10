@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Preahvihear', sans-serif;
+  font-size: 80px;
+  color: #fff;
+}
+
+.paint-h1 {
+  border: 1px solid #fff;
+  margin-left: 60vh;
+  margin-right: 60vh;
+  border-radius: 10px;
+  background-color: #000000;
+}
+
+.paint-canvas {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  cursor: crosshair;
+  background-color: white;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.clear {
+  background-color: red;
+  border-radius: 5px;
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 20px;
+  color: white;
+  margin: 10px;
+}
+
+.clear:hover {
+  transform: scale(1.1);
+  background-color: darkred;
+}
+
+.download {
+  background-color: #4caf50;
+  border-radius: 5px;
+  font-family: 'Ysabeau Office', sans-serif;
+  color: white;
+  font-size: 20px;
+}
+
+.download:hover {
+  transform: scale(1.1);
+  background-color: #45a049;
+}
+
+.paint-page-content {
+  text-align: center;
+  background-image: url('https://i.imgur.com/4skF7JA.jpeg');
+  background-size: cover;
+  height: 100vh;
+}
