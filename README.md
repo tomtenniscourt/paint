@@ -1,12 +1,19 @@
 # Paint Application README
 A simple JavaScript application that allows a user to paint on a blank canvas, using a range of colours and brush sizes. The user can also download their masterpiece to their computer. 
 
+## Screenshot:
+<img width="1917" alt="Screenshot 2023-08-10 at 10 53 54" src="https://github.com/tomtenniscourt/paint/assets/127535435/5b1446ff-2fbc-4ba9-b7d4-7b18df2720fb">
+
+
 ## Features:
 - **Draw on a Blank Canvas:** Users can draw on the canvas by clicking and dragging the mouse cursor. The drawing is done using circular brush strokes.
 - **Different Brush Sizes:** Users can choose from a range of brush sizes, including Extra Small, Small, Medium, Large, and Extra Large, to create different stroke thicknesses.
 - **Colour Selection:** Users can pick a color using the color input, which updates the brush color in real-time.
 - **Clear Canvas:** The "Clear Canvas" button allows users to erase the entire drawing on the canvas and start over.
 - **Download Image:** The "Download Image" button enables users to save their drawing as a PNG image file on their device.
+
+<img width="1917" alt="Screenshot 2023-08-10 at 10 54 48" src="https://github.com/tomtenniscourt/paint/assets/127535435/3784c8fa-564b-4b48-a992-15a13442fe02">
+
 
 ## How It Works
 
